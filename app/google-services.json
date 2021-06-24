@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116027132950",
+    "project_id": "olx-clone-13eef",
+    "storage_bucket": "olx-clone-13eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116027132950:android:45d692447f1f2577d77937",
+        "android_client_info": {
+          "package_name": "com.youtube.app.clone.curso.android.pedro.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116027132950-u9jn13nev9m3nif1l4h1j0jagtulma8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youtube.app.clone.curso.android.pedro.olxclone",
+            "certificate_hash": "ef9771e70abb6bcc829c68979f2df8e6f55aeb20"
+          }
+        },
+        {
+          "client_id": "116027132950-vfobm9tmcscub2n4nm720k1qsdkbgb7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCCrvy4NalnigyfL7cFFnnv3IA4-i6gBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116027132950-vfobm9tmcscub2n4nm720k1qsdkbgb7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group_logado" android:visible="false">
+
+        <item
+            android:id="@+id/menu_sair"
+            android:title="Sair"
+            app:showAsAction="withText"
+            />
+        <item
+            android:id="@+id/menu_meus_anuncios"
+            android:title="Meus Anuncios"
+            app:showAsAction="withText"
+            />
+
+    </group>
+
+    <group android:id="@+id/group_deslogado" android:visible="false">
+
+        <item
+            android:id="@+id/menu_cadastro_login"
+            android:title="Cadastro/Login"
+            app:showAsAction="always"
+            />
+
+    </group>
+
+
+</menu>
